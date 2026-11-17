@@ -1,0 +1,39 @@
+{
+  "name": "unischedule-timetable-management",
+  "version": "2.0.0",
+  "description": "College & University Academic Timetable Management System — HTML5, CSS3, JavaScript, Node.js, SQLite. Zero npm dependencies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "timetable",
+    "scheduling",
+    "university",
+    "college",
+    "academic",
+    "csp-solver",
+    "constraint-satisfaction",
+    "sqlite",
+    "nodejs",
+    "html5",
+    "css3",
+    "javascript",
+    "hybrid-web-app",
+    "no-dependencies"
+  ],
+  "author": "UniSchedule Project",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/timetable-management-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/timetable-management-system/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/timetable-management-system#readme"
+}
